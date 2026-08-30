@@ -1,3 +1,3 @@
-projec title- spotify-clone
-spotify-web-music
-fontend project
+Projec title- Spotify-clone
+Spotify-web-music
+Fontend project
